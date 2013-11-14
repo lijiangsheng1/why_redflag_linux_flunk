@@ -6,7 +6,7 @@ html:
 pdf:  
 	./xml-format.sh -d why.xsl -k xml/redflag.xml
 pdf-clean:
-	rm *.out *.fo *.pdf 
+	rm *.out *.fo  
 
 html-clean:
 	rm html
