@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE bookinfo PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "../../docbook/dtd/docbook.dtd" [
-<!ENTITY % BOOK_ENTITIES SYSTEM "ovdg.ent">
+<!ENTITY % BOOK_ENTITIES SYSTEM "redflag.ent">
 %BOOK_ENTITIES;
 ]>
 <bookinfo>
@@ -15,14 +15,5 @@
      <affiliation>
      </affiliation>
    </author>
-   <editor>
-     <personname>
-        <firstname>适兕</firstname>
-        <othername></othername>
-     </personname>
-     <personblurb>
-       <para>独立之思想，自由之精神。 -- 陈寅恪</para>
-     </personblurb>
-   </editor>
   </authorgroup>
 </bookinfo>

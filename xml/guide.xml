@@ -1,16 +1,63 @@
-<chapter>
+<preface>
  <title>引子</title>
+  <para>“红旗人”，这是个每个曾经在红旗工作过的人，一个荣耀的头衔；每个有这样头衔的人，对红旗linux都饱含情感。然而，他永远的成为了曾经。</para>
+  <para>那么是什么让他成为昨日黄花？下面的词汇能够容纳吗？</para>
+  <itemizedlist>
+    <listitem><para>腐败？</para></listitem>
+    <listitem><para>民主？</para></listitem>
+    <listitem><para>文化？</para></listitem>
+    <listitem><para>开源？</para></listitem>
+    <listitem><para>民族？</para></listitem>
+    <listitem><para>品牌？</para></listitem>
+    <listitem><para>核高基？</para></listitem>
+    <listitem><para>政治？</para></listitem>
+    <listitem><para>产品？</para></listitem>
+  </itemizedlist>
+  <para>他并没有成长为巨人，就在短暂的十几年后倒下了。</para>
   <para>记得一次和田溯宁先生吃饭的时候，他讲到他有一次见苹果的创始人Steven Jobs的时候，Jobs断言称：“中国人开发不出伟大的软件“。以Jobs的右脑思维，这话没有什么恶意，但谁都知道是怎么回事。</para>
   <para>从那以后，我一直都在思考着，也反思着自己的职业生涯。</para>
   <para>在2013年的10月份，听到原来红旗的同事已经5个月没有发工资了，正好原来售后的同事结婚请客，我顺道回了趟红旗，当然空位置很多，办公区域的一些地方还没有亮着灯。</para>
   <para>那么我就开始下定决心要写点什么，目的已经不再重要。</para>
    <section>
-    <title></title>
+     <title>本书的读者</title>
+     <para>那些曾经梦想着在中国这片古老的土地上做点事情的人们。</para>
+   </section>
+   <section>
+     <title>本书的结构</title>
+     <para>雾霾笼罩的10月</para>
+     <para>曾经的辉煌</para>
+     <para>程序员们的梦想</para>
+     <para>民族主义者的希望</para>
+     <para>错过的机会</para>
+     <para>文化，难以割舍的情怀</para>
+     <para></para>
+     <para></para>
+     <para></para>
      <para></para>
    </section>
    <section>
-     <title>感谢</title>
-     <para>在一次聚会上偶然提到此事的前同事/朋友。</para>
+     <title>本书的约定</title>
+     <para> ... </para>
    </section>
-</chapter>
+   <section>
+     <title>获得本书</title>
+     <para> ... </para>
+   </section>
+   <section>
+     <title>请求评论</title>
+     <para> ... </para>
+   </section>
+   <section>
+     <title>致谢（适兕）</title>
+     <para> 本书的写作将花费大量的时间！ </para>
+   </section>
+   <section>
+     <title></title>
+     <para> ... </para>
+   </section>
+   <section>
+    <title></title>
+     <para></para>
+   </section>
+</preface>
 

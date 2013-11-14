@@ -6,7 +6,7 @@
                 xmlns:db="http://docbook.org/ns/docbook"
                 exclude-result-prefixes="db ng exsl"
                 version='1.0'>
-<xsl:import href="/home/lee/Docbook/docbook/fo/docbook.xsl"/>
+<xsl:import href="/home/lee/Docbook/docbook-xsl/fo/docbook.xsl"/>
 
 <xsl:attribute-set name="section.title.properties">
   <xsl:attribute name="font-family">
