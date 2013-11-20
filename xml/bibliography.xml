@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "../../docbook/dtd/docbook.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "redflag.ent">
+%BOOK_ENTITIES;
+]>
+<bibliography><title>參考資料</title>
+  <para>當你第一眼看見本節，你會發覺所收集的參考資料不是很多...</para>
+  <bibliodiv><title>線上資料</title>
+    <biblioentry>
+      <title>黑客:计算机革命的英雄(二十五周年新版)</title>
+      <subtitle>
+        <ulink url="&hacker.douban.url;">豆瓣链接地址</ulink>
+      </subtitle>
+      <authorgroup>
+        <author>
+          <firstname>Saqib</firstname>
+          <surname>Ali</surname>
+        </author>
+        <author><othername>老貢生</othername></author>
+      </authorgroup>
+      <revhistory>
+        <revision>
+          <revnumber>1.0.0</revnumber>
+          <date>2003-11-19</date>
+        </revision>
+      </revhistory>
+    </biblioentry>
+    <biblioentry>
+    ......
+    </biblioentry>
+  </bibliodiv>
+  <bibliodiv>
+  ......
+  </bibliodiv>
+</bibliography>

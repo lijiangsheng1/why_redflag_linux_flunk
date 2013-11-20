@@ -1,6 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "../../docbook/dtd/docbook.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "redflag.ent">
+%BOOK_ENTITIES;
+]>
 <preface>
  <title>引子</title>
-  <para>“红旗人”，这是个每个曾经在红旗工作过的人，一个荣耀的头衔；每个有这样头衔的人，对红旗linux都饱含情感。然而，他永远的成为了曾经。</para>
+  <para>“红旗人”，这是个每个曾经在&redflag;工作过的人，一个荣耀的头衔；每个有这样头衔的人，对红旗linux都饱含情感。然而，他永远的成为了曾经。</para>
   <para>那么是什么让他成为昨日黄花？下面的词汇能够容纳吗？</para>
   <itemizedlist>
     <listitem><para>腐败？</para></listitem>
